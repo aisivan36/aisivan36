@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://aisivan-github.herokuapp.com/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://aisivan-github.herokuapp.com/api/top-langs/?username=aisivan36&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://aisivan-github.herokuapp.com/api/pin/?username=aisivan36&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://aisivan-github.herokuapp.com/api/pin/?username=aisivan36&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
